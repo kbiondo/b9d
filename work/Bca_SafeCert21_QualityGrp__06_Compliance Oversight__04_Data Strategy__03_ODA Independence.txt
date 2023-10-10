@@ -1,0 +1,482 @@
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/CO Project Roadmap 16 May 2022_rev2.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/Draft_ODA Workshop_R3.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/DRAFT_UM6_Heatmap_Charter.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/Program_Workshop_23-Jan-2023.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/Project Review 111422.pptm
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/UM-8 Metrics - Draft.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/UM-8 Monitoring Program Data Structure.html
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/03_FAA_Presentations
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/07_UM2_IntegratedScheduling
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/08_UM7
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/09_Reference_Presentations
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/12_SAW_FCE
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\05_Corporate Strategy Consulting
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\Data Analytics Project.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\01_Speak Up ASAP
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\05_Corporate Strategy Consulting
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\01_Speak Up ASAP\FAA Organization Changes April 2022.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\01_Speak Up ASAP\Speak Up Partnership ERC Meeting Minutes 30Mar2022.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\01_Speak Up ASAP\SpeakUp Partnership ERC_Final.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\04_Risk Management\01_Speak Up ASAP\SU Signed agreement.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\05_Corporate Strategy Consulting\02_Corporate Strategy NAR - Shortcut.lnk
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\05_Corporate Strategy Consulting\CSC_ODA_Story_021822_v04_EUM SteerCo.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\05_Corporate Strategy Consulting\CSC_ODA_Story_Round2_FIN.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/00_Data Strategy ODA Independence\05_Corporate Strategy Consulting\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\031323 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\032023 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\032723 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\041423 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\050423 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\051223 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\052523 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\060123 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\062923 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\071123 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\072023 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\082223 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\082923 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\091923 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\100323 - Staff.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/01_Staff-Meetings\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\CO Data Workshop_Final Deck_ 05 July 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\02_Commitments
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\03_Workshop #2
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\00_Archive\CO Data Workshop Prep_24 June 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\00_Archive\CO Data Workshop_Final Deck_ 30 June 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\00_Archive\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\CMR Philosophy
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Facility Info
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Final Prep Meeting
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\Data Catalogue Workshop Attendee List_1 July 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_07.06.22.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_28 June 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_28 June 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_29 June 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_29 June 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_30 June 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_30 June 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Attendee List\00_Archive\Data Catalogue Workshop Attendee List_30 June 2022_rev 2.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\CMR Philosophy\IT_CO Project Roadmap 20 June 2022.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\CMR Philosophy\IT_CO Project Roadmap 20 June 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\CMR Philosophy\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Facility Info\AIC Scheduling Request.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Facility Info\Map - AIC 2021.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Facility Info\Safety Presentation - Seats & IFE.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Final Prep Meeting\CO Data Workshop Overview_ 30 June 2022_rev 1.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\01_Prep Info\Final Prep Meeting\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\02_Commitments\Full_Control_Plan_03282022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\02_Commitments\SRM Control Plan Mapping_05 July 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\02_Commitments\SRM Control Plan Mapping_March 16 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\03_Workshop #2\AIC Scheduling Request.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/02_CMR Workshops\03_Workshop #2\CMR_Update FAA 15 Aug 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/03_FAA_Presentations\Monitoring Program 121922.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/03_FAA_Presentations\OMT Integrated Improvement Projects UM-8 and UM-6 Deep Dive 1-24-2023.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/03_FAA_Presentations\UM-6 Review 111422.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/03_FAA_Presentations\UM-8 Monitoring Program 121222.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/03_FAA_Presentations\UM-8 Monitoring Program.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\5-25-23 - UM6 – Early Warning System Review.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\EW Implementation Plan-kb.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\FAA Status Update - 8-28-23.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\MVP 2.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\ODA Heatmap Review 6_29_2023.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\Project Review 111422.pptm
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM-6 MVP-2 Kick-Off.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM-6 Project Review 120522.pptm
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM-6 Review 111422.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM6 - FAA Status Update - 8-28-23.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM6-Benchmark-Updates-7-27.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM6-Benchmark-Updates_ Tauber slides.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\UM6_requirements_matrix3.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\MVP-2
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\MVP-2\Current Metric Deck_(20_slides) LMK.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\MVP-2\Draft_ODA Workshop_R3.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/04_UM6_EarlyWarningSystem\MVP-2\MVP 2.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram\Current Metric Deck_(20_slides) LMK.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram\DashboardWorkingFile - Temp - Monitoring Program Aritfacts.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram\UM-8 Monitoring Program.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram\UM-8 Review 111422.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/05_UM8_MonitoringProgram\UM8 Exec Summary External_72623.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\01_Run the Business
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\05_Strengthen ODA
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\2133 Advisory Report_Final_Rev0signed (003).pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\860-22-0077a, 46252.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\D6-87140.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\FAA_DRAFT_Notice_8100_ODA_Interference_Communication.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\ICA Culture of Compliance_ICA Overview.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\ICA_Jan2019.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\LX Project and Experience Proposal Form_Risk Management Swimlane.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\ODA Interference - Risk Management Swimlane December 16 2021_kdt edits.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\ODA Interference - Risk Management Swimlane December 21 2021.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\ODA Project Sequence.html
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\Open SCQI Projects_05 Jan 22.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\SRM_Control_Plans_12132021_DRAFT.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\SRM_Control_Plans_Dec 13 21_KDT.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\00_Reference\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\01_Run the Business\01_Org Charts
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\01_Run the Business\01_Org Charts\BCA Eng Org.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\01_Run the Business\01_Org Charts\BCA SCQI and RA&A Core.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\01_Run the Business\01_Org Charts\P&SS Team Org Charts41222.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\01_Run the Business\01_Org Charts\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\03_Control Measure Roadmap Presentations
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference\E-UM Project Notes.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference\ODA_APE_Process_Review_SMSDraft.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference\Applicant Training
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference\Applicant Training\Applicant Training Development Workshop Pre-Kickoff_R1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\00_Reference\Applicant Training\Applicant Training_24 March 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\CO Project 4SQs 09 May 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM Org Restructure_KDT edits.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM_4_Square_Schedules.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM_4_Square_Schedules_07 June 22.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM_4_Square_Schedules_15 June 22.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM_4_Square_Schedules_15 June 22_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM_4_Square_Schedules_27 June 2022.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\E-UM_4_Square_Schedules_CMR_31 May 2022.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\01_E-UM Advocacy 4SQ Updates\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\20220505_ODA_DeepDive_SCD_VF.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\CSC Recommendations_ODA Independence Projects.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\CSC_ODA_Story_Round2_FIN.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\ODA_DeepDive_05052022.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\ODA_FinalEdits.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\Culture Initiatives
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\Culture Initiatives\Renaissance Effectiveness Metrics.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\02_Corporate Strategy NAR\Culture Initiatives\Renaissance Investor Deck MAR.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\03_Control Measure Roadmap Presentations\CO Project Roadmap 09 May 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\03_Control Measure Roadmap Presentations\CO Project Roadmap 16 May 2022_rev1.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\02_E-UM Advocacy Steering Team\03_Control Measure Roadmap Presentations\Culture+Behaviors_22 Mar 2022.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\03_ODA Independence - Shortcut.lnk
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\CMR_History_rev 3_23 Mar 2023.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Approval Package
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Control Plan Decoder Ring
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Approval Package\ODA SRM Team and Meeting Minutes.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Approval Package\SRM_Approval_Package_2022-02-22_rev 6.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Approval Package\0_Reference
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Approval Package\0_Reference\Copy of Workshop_2_Risk_Template (ODA Independence)_PostW2_consolidated.....xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Approval Package\0_Reference\ODA_Indep_SD_Tool_Input_10182021.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Control Plan Decoder Ring\SRM Control Plan Mapping_April 21 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Control Plan Decoder Ring\SRM Control Plan Mapping_March 16 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Control Plan Decoder Ring\SRM Control Plan Mapping_March 25 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Control Plan Decoder Ring\SRM_Control_Plans_12132021_DRAFT.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\03_ODA Independence SRM\SRM Control Plan Decoder Ring\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR _ PSSTBdebrief_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR_Heat Map EWS Description_20 Sept 2022.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR_Top Down Update FAA 29 Aug 2022_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR_Update EAST 14 Sept 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR_Update EAST 2 Nov 2022_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR_Update FAA 15 Aug 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\CMR_Update FAA 25 Aug 2022_rev 2.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Compliance Oversight Project Roadmap_and deepdive 06 May 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Copy of BASOO_SACO_CMO_Integration_Overview.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\FAA_DRAFT_Notice_8100_ODA_Interference_Communication.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Integrated Improvements Weekly FAA_Boeing Meeting Look ahead_2022-05-02.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Integrated Improvements Weekly FAA_Boeing Meeting Look ahead_2022-05-02.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Integrated Improvements Weekly FAA_Boeing Meeting Look ahead_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Integrated_Improvements_Current.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\IT_CO Project Roadmap 20 June 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Monitoring Program Workshop_Debrief_rev2.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\ODA Analytics Team RAA  General Milestones 8_15.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\ODA_OMT_4_26_Update.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\04_Integrated Improvements_FAA Meetings\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\05_Strengthen ODA\ODA23_Policy and Guidance Alignment.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\05_Strengthen ODA\ODA9_Process Effectiveness Audit System.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\05_Strengthen ODA\RE_ RE_ 12_30 ET SCD Special Action Meeting (SAM) - ODA Interference Deep Dive and Culture Assessment.msg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\05_Strengthen ODA\Strengthening ODA_Status.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\787 MPP Template - Backoffs r1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\787-Schedule-Workshop-OnePager.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\787_Customer Intro Overview-Slide.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Applicant Quality and Timeliness - Project Charter 2022-3-28.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Applicant Quality and Timeliness Metrics_SAW Leaders mtg.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Cert Milestones Network - ICA.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Certification Overview.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\CO_Integrated Scheduling Overview_31 May 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\CO_Integrated Scheduling Overview_8-11-22.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\CO_Integrated Scheduling Overview_w Notes 18 July 22.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\CO_Integrated Scheduling Overview_w Notes_TEA.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\DPA Overview Integrated Scheduling Workshop.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\FAA-Standard-Flows-2017-21.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\ODA Activities.msg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\OVS_6_8_Create_Manage_Integrated_Schedules_ValueStream2019.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\SRM_Approval_Package_2022-02-22_rev 6_ScheduleHighlights.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\UM-2_FourSquare.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Updated_Plotter_Charts.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\Updated_UM-2_Project-Plan.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive\05132022_ODA_SchedulingVSM_Proposal.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive\05182022_ODA_SchedulingVSM_Proposal_rev1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive\CO Project Roadmap 16 May 2022_rev2.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive\CO_Integrated Scheduling Overview.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive\CO_Integrated Scheduling Overview_24 May 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\00_Archive\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Integrated Schedule  Action Item Log.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\00_Reference
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\00_Reference\AIC Scheduling Request Form 7.22.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Action-Items.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-1-1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-1-2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-2-1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-2-2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-2-3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-3-1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-3-2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-3-3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-4-1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-4-2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-4-3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-5-1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-5-2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-6-1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Issue-Solution-Board-6-2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/06_ODA Independence Initiatives\07_Integrated Scheduling\01_Workshops\01_Oct 2022\Pictures\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/07_UM2_IntegratedScheduling\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/07_UM2_IntegratedScheduling\UM2 - Roadmap 6-2-23.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/07_UM2_IntegratedScheduling\UM2 WIP Scratch Pad.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/08_UM7\83386.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/08_UM7\ExpectationsEUM.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/08_UM7\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/08_UM7\Training Command Media New and Revised.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/09_Reference_Presentations\CMR_History_rev 3_23 Mar 2023.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/09_Reference_Presentations\CMR_Update FAA 25 Aug 2022_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/09_Reference_Presentations\CO Data Workshop_ EPSI debrief_rev 5.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/09_Reference_Presentations\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/09_Reference_Presentations\~$CMR_History_rev 3_23 Mar 2023.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\CO Data Workshop_highlights_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\02_Attendees
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\04_Stakeholder Documents
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\06_Reference Artifacts
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\CO Data Workshop Overview_ 30 June 2022_rev 1.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\IT_CO Project Roadmap 20 June 2022.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\IT_CO Project Roadmap 20 June 2022.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\Map - AIC 2021.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\Map - AIC 2021.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\Map - AIC 20211.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\01_Attendee Package\Safety Presentation - Seats & IFE.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\02_Attendees\Data Catalogue Workshop Attendee List_1 July 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\02_Attendees\ODA Independence Chargeline.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\02_Attendees\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\02_Attendees\00_Archive\Data Catalogue Workshop Attendee List_30 June 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\7.6.22_Day1_DataCatalogueWorkshop.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\7.6.22_Day1_DataCatalogueWorkshop.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\7.6.22_Day1_DataCatalogueWorkshop1.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\7.7.22_Day2_DataCatalogueWorkshop.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\7.7.22_Day2_DataCatalogueWorkshop.pdf
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Files with Notes
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Original Files
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Files with Notes\CO Data Workshop_Final Deck_ 06 July 2022_rev1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Files with Notes\SRM Control Plan Mapping_06 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Files with Notes\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Files with Notes\00_Archive\SRM Control Plan Mapping_05 July 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Original Files\CO Data Workshop_Final Deck_ 05 July 2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Original Files\DPA Overview July 6 2022.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Original Files\SRM Control Plan Mapping_05 July 2022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Original Files\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 4.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 5.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 6.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1 Photo 7.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1_20 21 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1_21 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1_22 close up.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\Day 1_ID 7 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\DCW_Day 1_ 41 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\DCW_Day 1_22 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\03_Workshop Day 1 Materials\Day 1 Whiteboard Photos\DCW_day1_13 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\Post DCW_Control Plan Mapping_15 Aug 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\ASA IPT Debrief_27 July 2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\Exec Debrief_ 14 July 2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_01 Aug 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_11 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_11 July 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_14 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_14 July 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_18 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\00_Archive\Post DCW_Control Plan Mapping_21 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\ASA IPT Debrief_27 July 2022\CO Data Workshop_ ASA debrief_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\Exec Debrief_ 14 July 2022\CO Data Workshop_debrief_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\Exec Debrief_ 14 July 2022\00_Archive
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\Exec Debrief_ 14 July 2022\00_Archive\CO Data Workshop_debrief_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\CMR _ P2P 12 Sept 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\01 August 2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\15 August 2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\29 August 2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\01 August 2022\CO Data Workshop_ P2P 01 Aug 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\01 August 2022\Introductions + Next Steps __ ODA Independence - IT Day in the Life Activity.msg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\01 August 2022\Data Catalogue and Heat Map
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\01 August 2022\Data Catalogue and Heat Map\ODA P2P_8_1.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\01 August 2022\Data Catalogue and Heat Map\UM_Systems_of_Interest.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\15 August 2022\CMR Workshop 1_ P2P 15 Aug 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\15 August 2022\ODA Analytics Team RAA  General Milestones 8_15.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\29 August 2022\CMR Workshop 1_ P2P 29 Aug 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\05_Post Workshop Debrief and Action Items\P2P Meetings\29 August 2022\ODA Data Index_8_29.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\06_Reference Artifacts\Full_Control_Plan_03282022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\06_Reference Artifacts\SRM Control Plan Mapping_March 16 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\06_Reference Artifacts\SRM_Approval_Package_2022-02-22_rev 6.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Files with Notes
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Original Files
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Files with Notes\CO Data Workshop_Final Deck_ 07 July 2022_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Files with Notes\DCW_Control Plan Mapping_07 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Files with Notes\DCW_Control Plan Mapping_07 July 2022_rev 1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Original Files\CO Data Workshop_Final Deck_ 07 July 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Original Files\SRM Control Plan Mapping_06 July 2022_rev 0.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_ Initiatives close up.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Constraints HR.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Constraints_Gaps.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Initiatives and opportunities.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Initiatives and Synergies Whiteboard.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Obvious Gaps.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_P&A take 2.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Priorities and Actions.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Qualitative Data Sources Whiteboard.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Quantitative Data Sources Whiteboard.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Synergies close up.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\Day 2_Tools and Capabilities Whiteboard.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\DCW_Day 2_13 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\DCW_day2 QLT5.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\DCW_Day2_15 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\DCW_Day2_41 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/10_Data_Catalogue_Workshop_July_2022\07_Workshop Day 2 Materials\Day 2 Whiteboard Photos\DCW_Day2_45 up close.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Attendee Package
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Attendee Package\Integrated_Improvements_Current.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Attendee Package\Map - AIC 2022.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Attendee Package\Monitoring Program Workshop - Attendee Package.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Attendee Package\Safety Presentation - Seats & IFE.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\DCCS_ETAC_Report_Out_ALEI_101222.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\Draft_ODA Workshop_R3.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\Early Warning System Approach.png
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\MVP Workshop 1 Presentation - KB101022.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\ALEI DA&I MVP1 Deliverables
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\Workshop2
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\Workshop3
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\ALEI DA&I MVP1 Deliverables\ODA_Compliance_KPI_Report.docx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\ALEI DA&I MVP1 Deliverables\ODA_Load_Engineering_Release_Tables.sql
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\ALEI DA&I MVP1 Deliverables\Stored Procedure Code.txt
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\Workshop2\MVP1 Brainstorm Listing.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Heat Map and Early Warning System Working Folder\Workshop2\MVP1 Workshop 2 Notes.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\101022 PtP Agenda.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\102422 PtP Agenda.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\110722 PtP Agenda.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\120522 PtP Agenda.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\Integrated Improvements Working File_R1.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\Monitoring Program Workshop - debrief.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Post Workshop Debrief\UM-8 Monitoring Program 121222.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Attendance_092022.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Attendance_092022_FAA view.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Monitoring Program Workbook.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Monitoring Program Workshop Sept2022.PPTX
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 2
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Stakeholder Presentations
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Workshop Documents
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-10
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-3
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-4
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-8
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-10
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-5
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-10\ODA10.1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-10\ODA10.2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-10\ODA10.3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-3\ODA3.1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-3\ODA3.2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-3\ODA3.3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-4\ODA4.1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-4\ODA4.2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-4\ODA4.3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-8\ODA8.1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-8\ODA8.2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\ODA-8\ODA8.3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-10\UM10.1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-10\UM10.2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-10\UM10.3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-5\UM5.1.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-5\UM5.2.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 1\WhiteBoard Pics\UM-5\UM5.3.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 2\WhiteBoard Pics
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Control Measure Infrastructure - Front.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Control Measures, Policy and Guidance- .jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Organization .jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Organizational - Front.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Organizational - Projects.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Oversight - Front.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Oversight Reporting.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Parking Lot.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Policy and Guidance - Front.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\RAA - Front.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\RAA - Projects.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\RAA.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Training & Development.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Day 3\WhiteBoard Pics\Training and Development - Front.JPG
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Stakeholder Presentations\DPA Overview Monitoring Program Workshop.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Stakeholder Presentations\ODA Workshop Early Warning System Slides.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Stakeholder Presentations\ODAWorkshop_DataSharing_DataQuality.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Stakeholder Presentations\Thumbs.db
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Workshop Documents\CMR_Top Down Update FAA 29 Aug 2022_rev 1.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Workshop Documents\CMR_Update EAST 14 Sept 2022_rev 0.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Workshop Documents\Phase2.RCA_UM_BPSM.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Workshop Documents\Phase3.SolutionID_UM_BPSM.xlsx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\02_Monitoring_Program_Workshop_Sept2022\Workshop\Workshop Documents\UM_BPSM_WeeklyStatus.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\4 Threads.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\Kaizen - Parkinglot.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\Kaizen.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\ODA Egg Chart.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\Parkinglot.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\Structure-Process-Tool-Data Buckets.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/11_Workshops\03_Monitoring_Program_Workshop_2-10-2023\Whiteboard Network Map.jpg
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/12_SAW_FCE\2.06.07 Airworthiness Certification Independence_Part 1 - updated.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/12_SAW_FCE\FCE-ODA Independence.pptx
+//NOS/Data/Bca_SafeCert21_QualityGrp/06_Compliance Oversight/04_Data Strategy/03_ODA Independence/12_SAW_FCE\Thumbs.db
